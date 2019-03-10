@@ -1,0 +1,10 @@
+Scott	24.95	32.25
+Angelina	32.75	41.00
+	15	25
+William	28.5
+Jordan	18.75	22.5
+
+Annalise	16.17825	25
+Tabatha	14.25	none
+28.15	15
+Andrew	22.5	38
